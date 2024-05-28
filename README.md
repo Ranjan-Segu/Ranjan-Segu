@@ -1,3 +1,4 @@
+![logo](https://github.com/Ranjan-Segu/Ranjan-Segu/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ranjan Segu</h1>
 <h3 align="center">A passionate market/data analyst and an insights specialist from India</h3>
 
